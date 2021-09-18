@@ -11,7 +11,7 @@ Clone the repository
 Run ```yarn``` to install needful dependencies.
 
 
-Run ```yarn serve``` to and paste the local host address on browser to view application.
+Run ```yarn serve``` and paste the local host address on browser to view application.
 
 ### Compiles and minifies for production
 ```
