@@ -1,4 +1,4 @@
-# iloveyou
+# TravelWithMe App
 
 ## Project setup
 ```
@@ -6,9 +6,12 @@ yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn serve
-```
+It's very simple to follow!
+Clone the repository
+Run ```yarn``` to install needful dependencies.
+
+
+Run ```yarn serve``` to and paste the local host address on browser to view application.
 
 ### Compiles and minifies for production
 ```
